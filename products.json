@@ -1,0 +1,51 @@
+{
+	"products" : [
+	    {
+			"name" : "Camiseta Fé",
+			"price" : "31.90",
+			"options" : [
+				{ "Tamanho" : "Pequena,Média,Grande" }
+			],
+			"image" : "https://img.elo7.com.br/product/zoom/F30A34/camisa-escudo-da-fe-camisetas-gospel-camisetas-personalizadas.jpg",
+			"description" : "Camiseta fé, cruz jesus"
+		},
+		{
+			"name" : "Camiseta cinza",
+			"price" : "35.90",
+			"options" : [
+				{ "Tamanho" : "Pequena,Média,Grande" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "Camiseta cinza lisa, 99%"
+		},
+		{
+			"name" : "Camiseta GameOver",
+			"price" : "31.90",
+			"options" : [
+				{ "Tamanho" : "Pequena,Média,Grande" }
+			],
+			"image" : "https://img.elo7.com.br/product/original/D9411D/camiseta-game-over-camisetas-casamento-camisetas-customisadas.jpg",
+			"description" : "Camiseta game over, planeta nerd"
+		},
+		{
+			"name" : "Camiseta casual",
+			"price" : "15.99",
+			"options" : [
+				{ "Tamanho" : "Pequena,Média,Grande" },
+				{ "Cor" : "Azul,Vermelha" },
+			    { "OneOfAKind" : true }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/2/24/Blue_Tshirt.jpg",
+			"description" : "This is a really cool blue T-shirt"
+		},
+		{
+			"name" : "Fun T-shirt",
+			"price" : "15.99",
+			"options" : [
+				{ "Size" : "Small,Medium,Large" }
+			],
+			"image" : "http://upload.wikimedia.org/wikipedia/commons/c/c6/Grey_Tshirt.jpg",
+			"description" : "This is another fun grey T-shirt"
+		}
+	]
+}

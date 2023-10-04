@@ -1,0 +1,45 @@
+body {
+    background-color: slategrey;
+}
+
+header {
+    height:30px;
+    background-color:#333;
+}
+
+div {
+    background-color: white;
+    opacity: 1.9;
+    border-color: black;
+    border-radius: 12px;
+}
+
+ul {
+    height:50px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+.active {
+    background-color: #00bfff;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #111;
+}
